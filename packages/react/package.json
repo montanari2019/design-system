@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-mui/tokens",
+  "name": "@ignite-mui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,7 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tsup": "^7.1.0",
+    "@ignite-mui/tokens": "*",
+    "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }
 }
