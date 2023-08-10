@@ -1,4 +1,2 @@
-
-import { colors } from "@ignite-mui/tokens"
+import { colors } from '@ignite-mui/tokens'
 console.log(colors)
-
