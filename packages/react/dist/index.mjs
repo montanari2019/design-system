@@ -1,4 +1,2 @@
-"use strict";
-
-// src/@index.ts
+// src/index.ts
 console.log("testando pacotes");

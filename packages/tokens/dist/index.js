@@ -17,9 +17,9 @@ var __copyProps = (to, from, except, desc) => {
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// src/@index.ts
-var index_exports = {};
-__export(index_exports, {
+// src/index.ts
+var src_exports = {};
+__export(src_exports, {
   colors: () => colors,
   fontSizes: () => fontSizes,
   fontWeights: () => fontWeights,
@@ -28,7 +28,7 @@ __export(index_exports, {
   radii: () => radii,
   space: () => space
 });
-module.exports = __toCommonJS(index_exports);
+module.exports = __toCommonJS(src_exports);
 
 // src/colors.ts
 var colors = {
