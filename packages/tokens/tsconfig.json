@@ -1,5 +1,0 @@
-{
-  "extends": "@ignite-mui/tsconfig/base.json",
-  "include": ["src"],
-  
-}

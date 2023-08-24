@@ -1,0 +1,3 @@
+{
+    "extends": "@ignite-montanari-ui/eslint-config"
+}

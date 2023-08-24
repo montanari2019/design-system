@@ -1,0 +1,4 @@
+{
+  "extends": "@ignite-montanari-ui/ts-config/react.json",
+  "include": ["src"]
+}
