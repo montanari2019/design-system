@@ -12,10 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ignite-montanari-ui/react": "*",
     "@ignite-montanari-ui/eslint-config": "*",
-    "@ignite-montanari-ui/ts-config": "*",
+    "@ignite-montanari-ui/react": "*",
     "@ignite-montanari-ui/tokens": "*",
+    "@ignite-montanari-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
   },
   "devDependencies": {
